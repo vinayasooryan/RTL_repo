@@ -80,7 +80,7 @@ Synthesize on an FPGA board (Artix-7)
 
 👨‍💻 Author
 
-Vinaya Sooryan (Vin)
+Vinayasooryan
 🔗 Aspiring VLSI Design Engineer
-💡 Passionate about Digital Design, Entrepreneurship & Hardware Architecture
+💡 Passionate about Digital Design,RTL & Hardware Architecture
 📍 Trivandrum, Kerala, India
