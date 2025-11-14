@@ -50,7 +50,16 @@ module sequence_detector_moore(
              else
                next = S1;
             end 
+         S4: begin
+             if(in)
+               next = S1;
+              else
+               next = S0;
+             end  
+         default: next = S0;
+          
        endcase 
+       
      end  
      // 4. Output logic (Moore)
      assign out = (current==S4)? 1 : 0;
